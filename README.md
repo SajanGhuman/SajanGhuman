@@ -1,16 +1,19 @@
-## Hi there 👋
+```css
+#sajan { 
+  position: Canada; 
+  height: 191cm; 
+  display: boy; 
+  background: nerd; 
+  color: brown;
+  overflow: curiosity
+}
+```
 
-<!--
-**SajanGhuman/SajanGhuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   :pencil2: JavaScript / TypeScript / React / Next.js / Three.js
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/) / [Ghostty](https://ghostty.org/) / [Firefox](https://www.mozilla.org/firefox/)  
+-   :computer: Self-hosted HP EliteDesk Proxmox server
+-   :gear: My dotfiles: https://github.com/SajanGhuman/Dotfiles
+-   :link: Portfolio: https://sajanghuman.com  
+-   :briefcase: LinkedIn: https://www.linkedin.com/in/sajanghuman
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
