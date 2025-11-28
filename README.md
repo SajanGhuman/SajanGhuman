@@ -1,6 +1,6 @@
 ```css
 #sajan { 
-  position: Canada; 
+  position: canada; 
   height: 191cm; 
   display: boy; 
   background: nerd; 
