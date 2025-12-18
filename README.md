@@ -50,7 +50,7 @@
 
 - 📦 [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [Hyprland](https://hyprland.org/) / [Omarchy](https://omarchy.org/) / [Neovim](https://neovim.io/) / [Ghostty](https://ghostty.org/)
 - ⚙️ Dotfiles: https://github.com/SajanGhuman/Dotfiles
-- 🧠 Home Server: [HP Elitedesk 800 g3 (Proxmox)](https://en.wikipedia.org/wiki/List_of_HP_business_desktops)
+- 🧠 Home Server: [HP Elitedesk 800 G3 (Proxmox)](https://en.wikipedia.org/wiki/List_of_HP_business_desktops)
 
 ---
 
@@ -98,7 +98,7 @@
   <a href="https://www.linkedin.com/posts/sajanghuman_you-wont-get-a-job-just-because-you-can-activity-7406000019620700160-BZDA">
     <b>Why You’re Not Getting a Job</b>
   </a><br/>
-  <i>You won’t get a job just because you can code—just like you won’t learn to swim by reading about water.</i>
+  <i>You won’t get a job just because you can code, just like you won’t learn to swim by reading about water.</i>
 </li>
 
 <li>
